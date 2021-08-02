@@ -31,6 +31,7 @@
   - TypeORM
   - PostgresSQL
   - Jest
+  - Docker
 
 <br>
 <h1></h1>
