@@ -16,7 +16,7 @@
 
 <br>
 
-## Facts about me
+### Facts about me
 
 - 💼 I'm currently working as a full-stack web developer at Kodde Tech
 - 📕 I have a bachelor's degree in Computer Science from the State University of Northern Paraná (UENP)
