@@ -20,7 +20,7 @@
 
 - 💼 I'm currently working as a full-stack web developer at Kodde Tech
 - 📕 I have a bachelor's degree in Computer Science from the State University of Northern Paraná (UENP)
-- 📌 Living in Taquarituba, São Paulo, Brazil
+- 🇧🇷 Living in Taquarituba, São Paulo, Brazil
 - 💻 Techs that I often use:
   - Javascript
   - Typescript
