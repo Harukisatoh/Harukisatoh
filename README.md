@@ -26,6 +26,7 @@
   - Typescript
   - NodeJS
   - React
+  - NextJS
   - React Native
   - NestJS
   - TypeORM
