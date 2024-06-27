@@ -18,7 +18,6 @@
 
 ### Facts about me
 
-- 💼 I'm currently working as a Technical Leader at Superior Digital Design
 - 📕 I have a bachelor's degree in Computer Science from the State University of Northern Paraná (UENP)
 - 🇧🇷 Living in Taquarituba, São Paulo, Brazil
 - 💻 Techs that I often use:
